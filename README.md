@@ -1,1 +1,2 @@
 # Customer-Segmentation-Project
+The customer segmentation project categorizes customers based on shared characteristics to improve targeting and personalization. Using data analysis techniques like clustering, it identifies distinct groups, enabling tailored marketing strategies and product recommendations. This approach enhances customer satisfaction, optimizes resource allocation, and drives business growth by aligning offerings with specific customer needs.
